@@ -1,0 +1,45 @@
+Dogecoin explorers:
+(In general, go to Coinmarketcap and clicking on any coin/token you can see a list of explorers)
+- Dogechain looks like the more user friendly
+- Blockchair for checking coin days burned. 
+- Relatively easy to get the data through API calls or requests when data displayed but not included (or not well formatted) in API call. 
+
+Information that can be obtained from the blockchain for regressions and tests:
+
+Address Information: 
+(Fortunately there seems to be a significant share of people that only use one address for a while. Not everyone is a privacy freak using 7 new addresses per transaction)
+- Date of first transaction
+- Date of last transaction
+- Number of transactions
+- Transaction frequency
+- Distribution of transaction amounts
+- Fees offered 
+- Note: historical balance would need to be computed. Not reported historically, only current balance.
+
+Block Information: 
+
+- Price of Dogecoin (not included. Need to add manually) 
+- Date and time of block
+- Number of transactions
+- Technical info like difficulty and identifiers
+- Coin days burnt is a very useful indicator.
+
+Transaction information:
+
+- All input addresses 
+- All output addresses
+- May want to format as a row per input-output pair with a transaction identifier.
+
+Rough estimates. 
+- Creating a database of all info would be approx 200 GB of data. Manageable!
+- Just need to use code and query. Python has good libraries. I dont know Julia. 
+- But maybe just try with one month of transactions first.
+- Approx 1 block per minute with 10-100 transactions. Average of 30. 
+
+ERC-20 tokens
+- Many meme coins are ERC tokens. Like Pepe.
+- Information on networks with tokens are more difficult to analyze.
+- In Ethernet you can check the manjority of transactions are just automated algorithmic trades associated with decentralized finance platforms. 
+- Dogecoin is less developed and easier to use for tests of financial behavior. Data is less contaminated. It's like observing an economy without banks or financial institutions. All transactions are buy and sell. No liquidity adjustments, automatic exchanges, ... 
+
+

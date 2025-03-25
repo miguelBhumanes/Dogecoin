@@ -1,0 +1,106 @@
+Strategy:
+
+Look for the following terms: 
+- Blockchain
+- Crypto
+- Bitcoin
+- Ethereum 
+
+In the following top 5 journals of economics and top 5 of finance:
+- Quarterly Journal of Economics 
+- American Economic Review
+- Econometrica
+- Review of Economic Studies
+- Journal of Political Economy
+- Journal of Finance
+- Journal of Financial Economics
+- Review of Financial Studies
+- Journal of Financial and Quantitative Analysis
+- Journal of Banking and Finance
+
+Plus the first 2 pages by relevance in Google Scholar for the same terms
+
+Results: 
+
+1 QEJ
+- Trust at Scale: The Economic Limits of Cryptocurrencies and Blockchains-> Not relevant. Related to blockchain structure.
+
+2 RESTUD
+- Monopoly without a Monopolist: An Economic Analysis of the Bitcoin Payment System -> Not relevant. Related to blockchain structure.
+- Redeemable Platform Currencies -> Not applicable directly 
+- Social Connectedness and Local Contagion -> This one is interesting. Algorithm to compute when agents in a network decide to participate in a technology adoption. 
+- Should Central Banks Issue Digital Currency? -> Not relevant directly 
+
+3 JPE
+- An Equilibrium Model of the Market for Bitcoin Mining -> Not relevant		
+- Learning and Money Adoption -> Also in traidition of Lagos and Wright 2005. Models money adoption, not directly applicable. 
+- Coexisting Exchange Platforms: Limit Order Books and Automated Market Makers -> About complementarities between CEX and DEX
+
+1 Journal of Finance
+
+Blockchain
+
+Is Bitcoin Really Untethered? -> Very useful paper. Shows algorithms to reduce complexity of blockchain data. Clusters accounts and tries to label them. Suggests a theory and then comes up with testeable implications. Then testes them. 
+
+Decentralized Exchange: The Uniswap Automated Market Maker -> Not relevant. Shows implications of AMMs when combined with centralized exchanges in a market. 
+
+Decentralization through Tokenization -> Not relevant. Focuses on issues of asymmetric information and alignment of interests.
+
+Utility Tokens as a Commitment to Competition -> Same as article above
+
+Equilibrium bitcoin pricing -> Not relevant. General equilibrium model for Bitcoin. Extremely nice paper. Save it.
+
+Common Risk Factors in Cryptocurrency -> Not relevant. Its an APT for Bitcoin. 
+
+The Wisdom of the Robinhood Crowd -> Not relevant. Just descriptive. 
+
+Information Cascades and Threshold
+Implementation: Theory and an Application to
+Crowdfunding -> It's about business financing. But it talks about how agents ignore private signals and follow a herding behavior. Can be useful. 
+
+2 Journal of Financial Economics
+
+Ransomware Activity and Blockchain Congestion -> Not relevant. Causal inference on whether people leave blockchains when congestion increases and so do trading fees.
+
+Token-based platform finance -> Not relevant. Another one on corporate finance using tokens
+
+From Mining to Markets: The Evolution of Bitcoin Transaction Fees -> Not relevant. About how the mining and transaction fees emerge and their equilibrium levels. 
+
+Bitcoin’s Limited Adoption Problem* -> Not relevant. Economics of network adoption. Negative network externality.
+
+Token-Based Platform Governance* -> Not relevant. Economics of platform. 
+
+Product market competition with crypto tokens and smart contracts -> Not relevant. Economics
+
+Optimal financing with tokens -> Corporate finance
+
+Trading and arbitrage in cryptocurrency markets -> Model about bitcoin arbitrage opportunities
+
+3 Review of Financial Studies
+
+Decentralizing Money: Bitcoin Prices and Blockchain Security -> About price determination
+
+Tokenomics: Dynamic Adoption and Valuation -> Alternative approach to determining the fundamental value of tokens
+
+Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies? -> Very popular paper. Methods are linear, but philosophy can be used for account labelling
+
+Risks and Returns of Cryptocurrency -> Similar the Journal of Finance paper on the APT for cryptocurrency return prediction
+
+Marketplace Lending, Information Aggregation, and Liquidity -> About lending in a network. But could be useful. 
+
+4 Journal of Financial and Quantitative Analysis
+
+Variance Decomposition and Cryptocurrency Return Prediction -> Find relation between volatility and price
+
+5 Journal of Banking and Finance
+
+Loaded for bear: Bitcoin private wallets, exchange reserves and prices -> A bit older but about a behavior of some wallets during the 2022 dip. 
+
+Downside risk and the cross-section of cryptocurrency returns -> More factors that drive returns
+
+On the performance of cryptocurrency funds -> Description of alphas of crypto funds
+
+
+
+
+
